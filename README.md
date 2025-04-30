@@ -1,4 +1,4 @@
-## Olá, eu sou o FasT-Z e atualmente sou analista de sistemas !
+## Olá, eu sou o Eduardo e atualmente sou analista de sistemas !
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
